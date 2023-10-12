@@ -13,8 +13,11 @@ I have no clue how I got this far please send help /j <br>
 
 <br>
 
+<details><summary> Nine Lives </summary>
+
 <h3> Nine Lives Roadmap</h3>
 
 <p align="center">
 	<img src="assets/roadmap.png"/>
 </p>
+</details>
