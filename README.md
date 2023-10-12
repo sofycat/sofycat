@@ -5,13 +5,15 @@
 | ----------- | ----------- | ----------- |
 | [BeeJuice](https://github.com/sofycodes/beeJuice) <br>Game Juice Libary for Gamemaker LTS | [Nine Lives](https://sofydev.itch.io/nine-lives) <br>Cat Hoard Round-Based shooter| [Aseprite](https://github.com/catppuccin/aseprite) <br>Catppuccin Aseprite themes |
 
-#
+<br>
 
 <h3> About Me </h3>
 I'm a self taught gamedev making Nine Lives + snuggling BLÅHAJ<br>
 I have no clue how I got this far please send help /j <br>
 
-#
+<br>
+
+<h3> Nine Lives Roadmap</h3>
 
 <p align="center">
 	<img src="assets/roadmap.png"/>
