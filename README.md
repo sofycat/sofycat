@@ -13,3 +13,6 @@ I have no clue how I got this far please send help /j <br>
 
 #
 
+<p align="center">
+	<img src="assets/roadmap.png"/>
+</p>
