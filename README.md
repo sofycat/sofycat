@@ -3,7 +3,7 @@
 #
 | Libraries📚 | Games🎮 |  Cool Stuff⛅  |
 | ----------- | ----------- | ----------- |
-| [BeeJuice](https://github.com/sofycodes/beeJuice) <br>Game Juice Libary for Gamemaker LTS | [Nine Lives](https://sofydev.itch.io/nine-lives) <br>Cat Hoard Round-Based shooter| [Aseprite](https://github.com/catppuccin/aseprite) <br>Catppuccin Aseprite themes |
+| [BeeJuice](https://github.com/sofycodes/BeeJuice) <br>Game Juice Libary for Gamemaker LTS | [Nine Lives](https://sofydev.itch.io/nine-lives) <br>Cat Hoard Round-Based shooter| [Aseprite](https://github.com/catppuccin/aseprite) <br>Catppuccin Aseprite themes |
 
 <br>
 
