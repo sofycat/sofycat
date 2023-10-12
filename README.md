@@ -1,1 +1,18 @@
-# sofy
+<h2> SofyCodes </h2>
+
+#
+| Libraries📚 | Games🎮 |  Cool Stuff⛅  |
+| ----------- | ----------- | ----------- |
+| [BeeJuice](https://github.com/sofycodes/beeJuice) <br>Game Juice Libary for Gamemaker LTS | [Nine Lives](https://sofydev.itch.io/nine-lives) <br>Cat Hoard Round-Based shooter| [Aseprite](https://github.com/catppuccin/aseprite) <br>Catppuccin Aseprite themes |
+
+#
+
+[![Sofy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofycodes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+<h3> About Me </h3>
+I'm a self taught gamedev making Nine Lives + snuggling BLÅHAJ<br>
+I have no clue how I got this far please send help /j <br>
+
+#
+
