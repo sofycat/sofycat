@@ -7,9 +7,6 @@
 
 #
 
-[![Sofy's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofycodes&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-#
 <h3> About Me </h3>
 I'm a self taught gamedev making Nine Lives + snuggling BLÅHAJ<br>
 I have no clue how I got this far please send help /j <br>
