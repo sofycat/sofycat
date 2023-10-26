@@ -11,6 +11,13 @@
 I'm a self taught gamedev making Nine Lives + snuggling BLÅHAJ<br>
 I have no clue how I got this far please send help /j <br>
 
+#
+| Sofy's Links📚 |
+| ----------- |
+| [Youtube](https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig) <br>Game Juice Libary for Gamemaker LTS | 
+
+<br>
+
 <br>
 
 <details><summary> Nine Lives </summary>
