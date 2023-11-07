@@ -15,9 +15,6 @@ I'm a self taught gamedev making Nine Lives + snuggling BLÅHAJ<br>
 I have no clue how I got this far please send help /j <br>
 <br>
 
-| Content🔴 | Social💜 |  Gaming🎮 |
-| :-: | :-: | :-: |
-| [Youtube](https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig) <br>| [Discord](https://discord.gg/UdpBpxQBB8) <br> | [Steam](https://steamcommunity.com/id/SofyCodes/) <br> |
 
 #
 <br>
