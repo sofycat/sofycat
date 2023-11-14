@@ -1,5 +1,5 @@
 <div style ="tc display:flex;" align="center">
-  <img src="assets/profile.png" height="150" />
+  <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4"><img src="assets/profile.png" height="150"></a>
 </div>
 
 ## <div align="center">SofyDev</div>
