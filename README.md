@@ -10,7 +10,7 @@
 <div align="center">
 <p align="center">
 <a href="https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?&style?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;"></a>
-<a href="https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig"><img alt="Tiktok" src="https://img.shields.io/badge/tiktok-ff0050?&style?&style=for-the-badge&logo=tiktok&logoColor=white alt=youtube style="margin-bottom: 5px;"></a>
+<a href="https://www.patreon.com/SofyCodes"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-f96854?&style?&style=for-the-badge&logo=patreon&logoColor=white alt=patreon style="margin-bottom: 5px;"></a>
 <a href="https://github.com/sofycodes" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
 <a href="https://discord.gg/UdpBpxQBB8"><img alt="Discord" src="https://img.shields.io/badge/discord-7289da?&style?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;"></a>
 </p>
@@ -36,6 +36,7 @@
 
 <p align="center">
 <a href="https://github.com/catppuccin/aseprite"><img alt="Aseprite" src=assets/ase.png></a>
+<a href="https://sofydev.itch.io/nine-lives"><img alt="Aseprite" src=assets/Nyat.png></a>
 </p>
 <br>
 
