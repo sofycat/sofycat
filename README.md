@@ -29,9 +29,9 @@
 
 ## GitHub Stats
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofycodes)
-  
-
+[![SofyCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofycodes&theme=catppuccin_mocha&hide=issues,contribs&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofycodes&theme=catppuccin_mocha&layout=compact)
 ## Stuff :3
 
 <p align="center">
