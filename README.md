@@ -21,15 +21,16 @@
 <a href="https://youtu.be/XofLPRIqycc" target="_blank"><img src="https://i9.ytimg.com/vi_webp/XofLPRIqycc/mq2.webp?sqp=CJTWzqoG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGGUgUShHMA8=&rs=AOn4CLAmYz8LQeid7v9RRZsumv8F_jjVsA" alt="YT" height="315" />
 </a>
 
-## GitHub Stats
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofycodes)
-  
 <br>
+
 <p align="center">
 <a href="https://discord.gg/UdpBpxQBB8"><img alt="Discord" src="assets/discord.png"></a>
 </p>
 
+## GitHub Stats
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofycodes)
+  
 
 ## Stuff :3
 
