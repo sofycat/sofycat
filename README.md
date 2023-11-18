@@ -9,10 +9,11 @@
 <br>
 <div align="center">
 <p align="center">
-<a href="https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?&style?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;"></a>
+<a href="https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?&style?&style=for-the-badge&logo=youtube&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
+<a href="https://sofycodes.itch.io/"><img alt="ItchIO" src="https://img.shields.io/badge/itch.io-fa5c5c?&style?&style=for-the-badge&logo=itch.io&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
 <a href="https://www.patreon.com/SofyCodes"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-f96854?&style?&style=for-the-badge&logo=patreon&logoColor=white alt=patreon style="margin-bottom: 5px;"></a>
 <a href="https://throne.com/sofycodes" target="_blank"><img src=https://img.shields.io/badge/Throne-de4b83.svg?&style=for-the-badge&logo=wish&logoColor=white alt=Throne style="margin-bottom: 5px;" /></a>
-<a href="https://discord.gg/UdpBpxQBB8"><img alt="Discord" src="https://img.shields.io/badge/discord-7289da?&style?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;"></a>
+<a href="https://discord.gg/UdpBpxQBB8"><img alt="Discord" src="https://img.shields.io/badge/discord-7289da?&style?&style=for-the-badge&logo=discord&logoColor=white&alt=discord style="margin-bottom: 5px;"></a>
 </p>
 	
 **Check out my latest Youtube Video**
