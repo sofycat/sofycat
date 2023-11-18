@@ -1,8 +1,8 @@
 <div style ="tc display:flex;" align="center">
-  <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4"><img src="assets/profile.png" height="150"></a>
+  <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4"><img src="assets/SCPFP.png" height="300"></a>
 </div>
 
-## <div align="center">SofyDev</div>
+## 
 
 <div align="center">A GameDev delving into the depths of my<br> spaghetti code. Join me on my journey!!</div>
 
