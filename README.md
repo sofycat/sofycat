@@ -36,6 +36,19 @@
 </p>
 <br>
 
+<table align="center">
+    <tr>
+        <td colspan="4" align="center"><a href="https://github.com/JujuAdams/TheJujuverse"><img src="assets/newprofile.png" style="height:240px"></a><br><b></b><br>
+		All my gamemaker libraries, all in one place</td>
+    </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/SofyCodes/consoleMe"><img src="assets/Nyat.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/SofyCodes/consoleMe">ConsoleMe</a><br>Modular dev console for GameMaker</td>
+	<td align="right"><a href="https://github.com/SofyCodes/consoleMe"><img src="assets/ase.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/catppuccin/aseprite">Catpprite</a><br>🖍 Soothing pastel theme for Aseprite</td>
+    </tr>
+</table>
+
 Thanks for reading if you've made it this far! Below are my Repo's! 🌺🐝
 
 
