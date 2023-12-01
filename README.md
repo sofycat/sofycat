@@ -31,7 +31,6 @@
 ## Projects
 
 <p align="center">
-<a href="https://github.com/catppuccin/aseprite"><img alt="Aseprite" src=assets/ase.png></a>
 <a href="https://sofydev.itch.io/nine-lives"><img alt="Aseprite" src=assets/Nyat.png></a>
 </p>
 <br>
@@ -43,9 +42,9 @@
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/SofyCodes/consoleMe"><img src="assets/Nyat.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/SofyCodes/consoleMe">ConsoleMe</a><br>Modular dev console for GameMaker</td>
+        <td><a href="https://github.com/SofyCodes/consoleMe">ConsoleMe</a><br>🪴Retro modular dev-console for GameMaker</td>
 	<td align="right"><a href="https://github.com/SofyCodes/consoleMe"><img src="assets/ase.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/catppuccin/aseprite">Catpprite</a><br>🖍 Soothing pastel theme for Aseprite</td>
+        <td><a href="https://github.com/catppuccin/aseprite">Catprite</a><br>🖍 Soothing pastel theme for Aseprite</td>
     </tr>
 </table>
 
