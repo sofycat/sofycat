@@ -18,7 +18,7 @@
 **Check out my latest Youtube Video**
 
 
-<a href="https://youtu.be/XofLPRIqycc" target="_blank"><img src="assets/mq2.jpg" alt="YT" height="315" />
+<a href="https://www.youtube.com/watch?v=JK5_4yeGQKk" target="_blank"><img src="assets/thumbnail1.jpg" alt="YT" height="315" />
 </a>
 
 <br>
