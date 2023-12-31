@@ -48,5 +48,8 @@
 </table>
 
 Thanks for reading if you've made it this far! Below are my Repo's! 🌺🐝
+<br>
+<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X0EIFPZ)
 
 
