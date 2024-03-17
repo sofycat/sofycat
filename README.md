@@ -36,7 +36,7 @@
 
 <table align="center">
     <tr>
-        <td colspan="4" align="center"><a href="https://github.com/JujuAdams/TheJujuverse"><img src="assets/newprofile.png" style="height:240px"></a><br><b></b><br>
+        <td colspan="4" align="center"><a><img src="assets/newprofile.png" style="height:240px"></a><br><b></b><br>
 		All my gamemaker libraries, all in one place</td>
     </tr>
     <tr>
