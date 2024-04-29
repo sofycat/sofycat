@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-<a href="https://discord.gg/UdpBpxQBB8"><img alt="Discord" src="assets/discord.png"></a>
+<a href="https://discord.gg/YH9UYRgQxp"><img alt="Discord" src="assets/discord.png"></a>
 </p>
 
 ## Projects
