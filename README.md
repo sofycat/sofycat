@@ -29,19 +29,14 @@
 
 ## Projects
 
-<p align="center">
-<a href="https://sofydev.itch.io/nine-lives"><img alt="Aseprite" src=assets/Nyat.png></a>
-</p>
-<br>
-
 <table align="center">
     <tr>
         <td colspan="4" align="center"><a><img src="assets/newprofile.png" style="height:240px"></a><br><b></b><br>
-		All my gamemaker libraries, all in one place</td>
+		All my main projects, all in one place</td>
     </tr>
     <tr>
-        <td align="right"><a href="https://github.com/SofyCodes/consoleMe"><img src="assets/Nyat.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/SofyCodes/consoleMe">ConsoleMe</a><br>🪴Retro modular dev-console for GameMaker</td>
+        <td align="right"><a href="https://sofydev.itch.io/nine-lives"><img src="assets/Nyat.png" style="width:120px"></a></td>
+        <td><a href="https://sofydev.itch.io/nine-lives">Nine Lives</a><br>🐈Hoard-Round-Based rougelite shooter</td>
 	<td align="right"><a href="https://github.com/SofyCodes/consoleMe"><img src="assets/ase.png" style="width:120px"></a></td>
         <td><a href="https://github.com/catppuccin/aseprite">Catprite</a><br>🖍 Soothing pastel theme for Aseprite</td>
     </tr>
