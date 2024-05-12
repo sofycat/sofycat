@@ -36,7 +36,7 @@
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/sofycodes/NineLives"><img src="assets/Nyat.png" style="width:120px"></a></td>
-        <td><a href="https://https://github.com/sofycodes/NineLives">Nine Lives</a><br>🐈Hoard-Round-Based rougelite shooter</td>
+        <td><a href="//https://github.com/sofycodes/NineLives">Nine Lives</a><br>🐈Hoard-Round-Based rougelite shooter</td>
 	<td align="right"><a href="https://github.com/SofyCodes/consoleMe"><img src="assets/ase.png" style="width:120px"></a></td>
         <td><a href="https://github.com/catppuccin/aseprite">Catprite</a><br>🖍 Soothing pastel theme for Aseprite</td>
     </tr>
