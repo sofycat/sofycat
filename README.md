@@ -2,11 +2,6 @@
   <a href="https://www.youtube.com/watch?v=_e9yMqmXWo0"><img src="assets/newprofile.png" height="300"></a>
 </div>
 
-## 
-
-<div align="center">A GameDev delving into the depths of my<br> spaghetti code. Join me on my journey!!</div>
-
-<br>
 <div align="center">
 <p align="center">
 <a href="https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?&style?&style=for-the-badge&logo=youtube&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
@@ -14,18 +9,27 @@
 <a href="https://discord.gg/YH9UYRgQxp"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da?&style?&style=for-the-badge&logo=discord&logoColor=white&alt=discord style="margin-bottom: 5px;"></a>
 <a href="https://ko-fi.com/sofydev"><img alt="Kofi" src="https://img.shields.io/badge/KoFi-FF5E5B?&style?&style=for-the-badge&logo=ko-fi&logoColor=white&alt=ko-fi style="margin-bottom: 5px;"></a>
 </p>
-	
-**Check out my latest Youtube Video**
+</div>
 
+## 
 
-<a href="https://www.youtube.com/watch?v=JK5_4yeGQKk" target="_blank"><img src="assets/thumbnail1.jpg" alt="YT" height="315" />
-</a>
+```csharp
+public class Sofy : Cat {
+    // Basic info
+    public string Pronouns = "She/They";
+    public string Gender = "Female";
+    public string Location = "Australia";
+    public string Timezone = "AEST (UTC+10)";
+
+    // Programming
+    public List<string> Projects = new() { "Nine Lives", "GML Tweaks" };
+    public List<string> FavoriteLanguages = new() { "GML", "C#" };
+}
+```
+
+<div align="center">
 
 <br>
-
-<p align="center">
-<a href="https://discord.gg/YH9UYRgQxp"><img alt="Discord" src="assets/discord.png"></a>
-</p>
 
 ## Projects
 
