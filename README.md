@@ -26,12 +26,10 @@ public class Sofy : Cat {
     public List<string> FavoriteLanguages = new() { "GML", "C#" };
 }
 ```
-
 <div align="center">
-
 <br>
-
-## Projects
+	
+# Projects
 
 <table align="center">
     <tr>
