@@ -28,7 +28,9 @@ public class Sofy : Cat {
 ```
 <div align="center">
 <br>
-	
+
+# Latest Video
+<a href="https://www.youtube.com/watch?v=zwvHnvKLP0w"><img src="assets/maxresdefault.webp" height="400"></a>
 # Projects
 
 <table align="center">
