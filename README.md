@@ -22,7 +22,7 @@ public class Sofy : Cat {
     public string Timezone = "AEST (UTC+10)";
 
     // Programming
-    public List<string> Projects = new() { "Nine Lives", "GML Tweaks" };
+    public List<string> Projects = new() { "Nine Lives", "Genesis" };
     public List<string> FavoriteLanguages = new() { "GML", "C#" };
 }
 ```
@@ -40,9 +40,13 @@ public class Sofy : Cat {
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/sofycodes/NineLives"><img src="assets/Nyat.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/sofycodes/NineLives">Nine Lives</a><br>🐈Hoard-Round-Based roguelite shooter</td>
+        <td><a href="https://github.com/sofycodes/NineLives">Nine Lives</a><br>🐈 Hoard-Round-Based roguelite shooter</td>
 	<td align="right"><a href="https://github.com/catppuccin/aseprite"><img src="assets/ase.png" style="width:120px"></a></td>
         <td><a href="https://github.com/catppuccin/aseprite">Catprite</a><br>🖍 Soothing pastel theme for Aseprite</td>
+    </tr>
+    <tr>
+	<td align="right"><a href="https://github.com/sofycat/Genesis"><img src="assets/compass(1).svg" style="width:120px"></a></td>
+        <td><a href="https://github.com/sofycat/Genesis">Genesis</a><br>🧭 Custom orign-points for gamemaker</td>    
     </tr>
 </table>
 
