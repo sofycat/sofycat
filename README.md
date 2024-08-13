@@ -4,7 +4,7 @@
 
 <div align="center">
 <p align="center">
-<a href="https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig"><img alt="Twitch" src="https://img.shields.io/badge/twitch-6441a5?&style?&style=for-the-badge&logo=twitch&logoColor=white&alt=twitch style="margin-bottom: 5px;"></a>
+<a href="https://www.twitch.tv/sofycatttv"><img alt="Twitch" src="https://img.shields.io/badge/twitch-6441a5?&style?&style=for-the-badge&logo=twitch&logoColor=white&alt=twitch style="margin-bottom: 5px;"></a>
 <a href="https://www.youtube.com/channel/UCk1zfyn_jBVkkYiQ9FCmtig"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?&style?&style=for-the-badge&logo=youtube&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
 <a href="https://sofycodes.itch.io/"><img alt="ItchIO" src="https://img.shields.io/badge/itch.io-fa5c5c?&style?&style=for-the-badge&logo=itch.io&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
 <a href="https://discord.gg/YH9UYRgQxp"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da?&style?&style=for-the-badge&logo=discord&logoColor=white&alt=discord style="margin-bottom: 5px;"></a>
