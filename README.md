@@ -48,7 +48,7 @@ public class Sofy : Cat {
     <tr>
 	<td align="right"><a href="https://github.com/sofycat/Genesis"><img src="assets/compass(1).svg" style="width:120px"></a></td>
         <td><a href="https://github.com/sofycat/Genesis">Genesis</a><br>🧭 Custom orign-points for gamemaker</td>
-	<td align="right"><a href="https://github.com/sofycat/gamemaker"><img src="assets/ase.png" style="width:120px"></a></td>
+	<td align="right"><a href="https://github.com/sofycat/gamemaker"><img src="assets/GM.png" style="width:120px"></a></td>
         <td><a href="https://github.com/sofycat/gamemaker">GameMaker Catppuccin</a><br>🖍 Soothing pastel theme for GameMaker</td>
     </tr>
 </table>
