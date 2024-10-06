@@ -30,8 +30,6 @@ public class Sofy : Cat {
 <div align="center">
 <br>
 
-# Projects
-
 <table align="center">
     <tr>
         <td colspan="4" align="center"><a><img src="assets/newprofile.png" style="height:240px"></a><br><b></b><br>
