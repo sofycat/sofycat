@@ -30,24 +30,22 @@ public class Sofy : Cat {
 <div align="center">
 <br>
 
-# Latest Video
-<a href="https://www.youtube.com/watch?v=zwvHnvKLP0w"><img src="assets/maxresdefault.webp" height="400"></a>
 # Projects
 
 <table align="center">
     <tr>
         <td colspan="4" align="center"><a><img src="assets/newprofile.png" style="height:240px"></a><br><b></b><br>
-		All my main projects, all in one place</td>
+		All projects I've worked on, all on fancy display</td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/sofycodes/NineLives"><img src="assets/Nyat.png" style="width:120px"></a></td>
         <td><a href="https://github.com/sofycodes/NineLives">Nine Lives</a><br>🐈 Hoard-Round-Based roguelite shooter</td>
-	<td align="right"><a href="https://github.com/catppuccin/aseprite"><img src="assets/aseprite.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/catppuccin/aseprite">Catprite</a><br>🖍 Soothing pastel theme for Aseprite</td>
-    </tr>
-    <tr>
 	<td align="right"><a href="https://github.com/sofycat/Genesis"><img src="assets/compass(1).svg" style="width:120px"></a></td>
         <td><a href="https://github.com/sofycat/Genesis">Genesis</a><br>🧭 Custom orign-points for gamemaker</td>
+    </tr>
+    <tr>
+	<td align="right"><a href="https://github.com/catppuccin/aseprite"><img src="assets/aseprite.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/catppuccin/aseprite">Catprite</a><br>🖍 Soothing pastel theme for Aseprite</td>
 	<td align="right"><a href="https://github.com/sofycat/gamemaker"><img src="assets/GM.png" style="width:120px"></a></td>
         <td><a href="https://github.com/sofycat/gamemaker">GameMaker Catppuccin</a><br>🖍 Soothing pastel theme for GameMaker</td>
     </tr>
