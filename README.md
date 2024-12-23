@@ -6,9 +6,21 @@
 <p align="center">
 <a href="https://www.twitch.tv/sofycatttv"><img alt="Twitch" src="https://img.shields.io/badge/twitch-6441a5?&style?&style=for-the-badge&logo=twitch&logoColor=white&alt=twitch style="margin-bottom: 5px;"></a>
 <a href="https://youtube.com/@sofycodess?si=76ae6qi_afaQJgHz"><img alt="Youtube" src="https://img.shields.io/badge/youtube-FF0000?&style?&style=for-the-badge&logo=youtube&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
-<a href="https://sofycodes.itch.io/"><img alt="ItchIO" src="https://img.shields.io/badge/itch.io-fa5c5c?&style?&style=for-the-badge&logo=itch.io&logoColor=white&alt=youtube style="margin-bottom: 5px;"></a>
+<a href="https://store.steampowered.com/app/3367130/Nine_Lives/"><img alt="Steam" src="https://img.shields.io/badge/steam-00adee?&style?&style=for-the-badge&logo=steam&logoColor=white&alt=steam style="margin-bottom: 5px;"></a>
 <a href="https://discord.gg/YH9UYRgQxp"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289da?&style?&style=for-the-badge&logo=discord&logoColor=white&alt=discord style="margin-bottom: 5px;"></a>
 <a href="https://ko-fi.com/sofycat"><img alt="Kofi" src="https://img.shields.io/badge/KoFi-FF5E5B?&style?&style=for-the-badge&logo=ko-fi&logoColor=white&alt=ko-fi style="margin-bottom: 5px;"></a>
+</p>
+</div>
+
+<div align="center">
+<p align="center">
+	
+<!-- https://badges.pages.dev/ -->
+![Gamemaker Badge](https://img.shields.io/badge/Gamemaker-000?logo=gamemaker&logoColor=fff&style=flat-square)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square)
+![Vulkan Badge](https://img.shields.io/badge/Vulkan-A41E22?logo=vulkan&logoColor=fff&style=flat-square)
+![OpenGL Badge](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=fff&style=flat-square)
 </p>
 </div>
 
@@ -27,6 +39,7 @@ public class Sofy : Cat {
     public List<string> FavoriteLanguages = new() { "GML", "C#" };
 }
 ```
+
 <div align="center">
 <br>
 
